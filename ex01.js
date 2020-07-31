@@ -1,4 +1,4 @@
-let msg = 'Welcome !'
+var message = 'Welcome !'
 
 
-console.log({ myMessage: msg })
+console.log(message);
